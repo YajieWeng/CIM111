@@ -1,5 +1,5 @@
-# CIM111
-Personal Website
+# CIM111-Front end design content
+Personal Website project
 <p><h1>Name: Yajie Weng<h1><p/>
 <p><a href="https://github.com/YajieWeng/CIM111/tree/master/HW">Homework Assignment<a/><p/>
 
