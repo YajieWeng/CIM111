@@ -1,6 +1,6 @@
 # CIM111
 Personal Website
-<p>Name: Yajie Weng<p/>
+<p><h1>Name: Yajie Weng<h1><p/>
 <p><a href="https://github.com/YajieWeng/CIM111/tree/master/HW">Homework Assignment<a/><p/>
 
 <a href="https://github.com/YajieWeng/CIM111/tree/master/HW/a2">
